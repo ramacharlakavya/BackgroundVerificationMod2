@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FetchEmployeeDocumentByIdServiceApplication {
+public class VerificationById {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FetchEmployeeDocumentByIdServiceApplication.class, args);
+		SpringApplication.run(VerificationById.class, args);
 	}
 
 }
